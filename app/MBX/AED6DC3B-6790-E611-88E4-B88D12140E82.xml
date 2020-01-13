@@ -1,0 +1,103 @@
+﻿<mockup version="4.2" platform="MtWeb" defaultW="1100" defaultH="6000" from="FmLocal" minAllowVersion="4.1" ID="AED6DC3B-6790-E611-88E4-B88D12140E82" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="3">
+    <control controlID="7C9DEC5A-6790-E611-88E4-B88D12140E82" controlTypeID="Image" isShow="True" caption="%E5%9B%BE%E7%89%87" x="0" y="0" w="1100" h="1046" measuredW="150" measuredH="150" zOrder="0" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+            <area shape="0" alt="" ID="{A2A4EC5A-6790-E611-88E4-B88D12140E82}" coords="(0,0,1100,1046)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{2EA5EC5A-6790-E611-88E4-B88D12140E82}" coords="(0,0,1100,1046)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <clipShapeType>SbRectangle</clipShapeType>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <filterType>MfNone</filterType>
+        <filterPencilValue>2</filterPencilValue>
+        <filterSketchValue>5</filterSketchValue>
+        <URL>74C06901835CF27E19160A3DF3370186.png</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+        <fitMode>2</fitMode>
+      </controlProperties>
+    </control>
+    <control controlID="1CA1EFB2-7290-E611-B45B-B88D12140E82" controlTypeID="Button" isShow="True" caption="%E6%8C%89%E9%92%AE" x="567" y="124" w="290" h="47" measuredW="100" measuredH="24" zOrder="1" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="0" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="AED6DC3B-6790-E611-88E4-B88D12140E82" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%85%85%E5%80%BC_%E7%BA%BF%E4%B8%8B%E6%94%AF%E4%BB%98">
+            <area shape="0" alt="" ID="{7AFDA898-6490-E611-88E4-B88D12140E82}" coords="(0,0,290,47)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{2EFEA898-6490-E611-88E4-B88D12140E82}" coords="(0,0,290,47)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" textFontFamily=".AppleSystemUIFont" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="17" textStyles="[]" useDefaultTextSize="True"/>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <buttonStatus>BsNormal</buttonStatus>
+        <thickness>1</thickness>
+        <isAutoTextColor>True</isAutoTextColor>
+        <borderColor>4284900966</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="5A2EF2B2-7290-E611-B45B-B88D12140E82" controlTypeID="Button" isShow="True" caption="%E6%8C%89%E9%92%AE" x="142" y="124" w="290" h="47" measuredW="100" measuredH="24" zOrder="2" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="0" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="CCAD973B-6790-E611-88E4-B88D12140E82" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%85%85%E5%80%BC_%E5%BF%AB%E6%8D%B7%E6%94%AF%E4%BB%98">
+            <area shape="0" alt="" ID="{7AFDA898-6490-E611-88E4-B88D12140E82}" coords="(0,0,290,47)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{2EFEA898-6490-E611-88E4-B88D12140E82}" coords="(0,0,290,47)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="14" textFontFamily=".AppleSystemUIFont" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="17" textStyles="[]" useDefaultTextSize="True"/>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <buttonStatus>BsNormal</buttonStatus>
+        <thickness>1</thickness>
+        <isAutoTextColor>True</isAutoTextColor>
+        <borderColor>4284900966</borderColor>
+      </controlProperties>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
